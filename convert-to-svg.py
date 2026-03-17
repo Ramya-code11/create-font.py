@@ -7,3 +7,4 @@ vtracer.convert_image_to_svg_py(
     colormode="binary"
 )
 print("SVG created successfully")
+
